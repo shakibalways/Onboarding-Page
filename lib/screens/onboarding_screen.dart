@@ -175,7 +175,6 @@ class OnboardingScreenState extends State<OnboardingScreen> {
                     ],
                   ),
                 ),
-
                 // animated container
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
