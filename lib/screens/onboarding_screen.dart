@@ -162,7 +162,7 @@ class OnboardingScreenState extends State<OnboardingScreen> {
                               'Get a new experience\nof imagination',
                               style: kTitleStyle,
                             ),
-                            SizedBox(height: 15.0),
+                            SizedBox(height: 15.0,),
                             Text(
                               'Lorem ipsum dolor sit amet, connect disciplining elite, sed do usermod temper incident ut labor et.',
                               style: kSubtitleStyle,
