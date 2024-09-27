@@ -15,7 +15,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Onboarding UI',
       debugShowCheckedModeBanner:
       false,
-      home: OnboardingScreen(),
+      home:
+      OnboardingScreen(),
     );
   }
 }
