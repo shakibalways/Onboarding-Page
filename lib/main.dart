@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'Flutter Onboarding UI',
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner:
+      false,
       home: OnboardingScreen(),
     );
   }
