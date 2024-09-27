@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:onboarding/screens/onboarding_screen.dart';
 
