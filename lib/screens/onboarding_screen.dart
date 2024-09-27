@@ -235,7 +235,6 @@ class OnboardingScreenState extends State<OnboardingScreen> {
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-
                   ),
                 ),
               ),
