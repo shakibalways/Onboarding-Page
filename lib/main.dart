@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:onboarding/screens/onboarding_screen.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
