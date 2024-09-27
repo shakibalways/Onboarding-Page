@@ -238,7 +238,6 @@ class OnboardingScreenState extends State<OnboardingScreen> {
                   ),
                 ),
               ),
-
             )
           : const Text(''),
     );
