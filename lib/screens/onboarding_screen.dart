@@ -200,7 +200,9 @@ class OnboardingScreenState extends State<OnboardingScreen> {
                                     fontSize: 22.0,
                                   ),
                                 ),
-                                SizedBox(width: 10.0,),
+                                SizedBox(
+                                  width: 10.0,
+                                ),
                                 Icon(
                                   Icons.arrow_forward,
                                   color: Colors.white,
