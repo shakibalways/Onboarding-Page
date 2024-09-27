@@ -130,7 +130,7 @@ class OnboardingScreenState extends State<OnboardingScreen> {
                                 width: 300.0,
                               ),
                             ),
-                            SizedBox(height: 30.0),
+                            SizedBox(height: 30.0,),
                             Text(
                               'Live your life smarter\nwith us!',
                               style: kTitleStyle,
